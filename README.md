@@ -1,4 +1,4 @@
-# SpaceX Machine Learning Prediction Project
+# SpaceX Rocket Landing Prediction Project
 
 This project aims to predict the success or failure of the first stage landing after Falcon 9 rocket launches using machine learning techniques. The project folder contains several Jupyter Notebook files, each focusing on different aspects of the project.
 
